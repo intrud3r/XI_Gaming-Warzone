@@ -1,0 +1,110 @@
+{
+    "Types": [
+        "ALL",
+        "",
+        "Hill",
+        "Local"
+    ],
+    "Locations": [
+        {
+            "Type": "",
+            "Name": "Airfield",
+            "Position": [
+                1453.9000244140626,
+                0.0,
+                1061.219970703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Beach (North)",
+            "Position": [
+                1085.030029296875,
+                0.0,
+                1530.030029296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Beach (South)",
+            "Position": [
+                1259.9599609375,
+                0.0,
+                474.05999755859377
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Cemetery",
+            "Position": [
+                1177.8599853515626,
+                0.0,
+                837.3800048828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Hotel",
+            "Position": [
+                1021.530029296875,
+                0.0,
+                700.2000122070313
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "North Haven",
+            "Position": [
+                674.6400146484375,
+                0.0,
+                730.1500244140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Parking Place",
+            "Position": [
+                1093.0400390625,
+                0.0,
+                1203.9599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Plane Crashsite",
+            "Position": [
+                1759.1700439453126,
+                0.0,
+                1677.77001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Supermarket",
+            "Position": [
+                1311.97998046875,
+                0.0,
+                1293.780029296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Supermarket",
+            "Position": [
+                1311.97998046875,
+                0.0,
+                1293.780029296875
+            ],
+            "Radius": 4.0
+        }
+    ]
+}

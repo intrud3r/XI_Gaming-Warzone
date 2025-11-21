@@ -1,0 +1,129 @@
+{
+    "m_Version": 2,
+    "RoamingLocations": [
+        {
+            "Name": "KP_NorthHaven (North Haven)",
+            "Position": [
+                674.6400146484375,
+                0.0,
+                730.1500244140625
+            ],
+            "Radius": 500.0,
+            "Type": "NameCity",
+            "Enabled": 1
+        },
+        {
+            "Name": "KP_PlaneCrash (Plane Crashsite)",
+            "Position": [
+                1759.1700439453126,
+                0.0,
+                1677.77001953125
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "KP_Airfield",
+            "Position": [
+                1453.9000244140626,
+                0.0,
+                1061.219970703125
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "KP_BeachNorth (Beach (North))",
+            "Position": [
+                1085.030029296875,
+                0.0,
+                1530.030029296875
+            ],
+            "Radius": 100.0,
+            "Type": "Hill",
+            "Enabled": 1
+        },
+        {
+            "Name": "KP_BeachSouth (Beach (South))",
+            "Position": [
+                1259.9599609375,
+                0.0,
+                474.05999755859377
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "KP_Hotel",
+            "Position": [
+                1021.530029296875,
+                0.0,
+                700.2000122070313
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "KP_ParkingPlace (Parking Place)",
+            "Position": [
+                1093.0400390625,
+                0.0,
+                1203.9599609375
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "KP_Supermarket1",
+            "Position": [
+                1311.97998046875,
+                0.0,
+                1293.780029296875
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "KP_Supermarket2",
+            "Position": [
+                1166.969970703125,
+                0.0,
+                588.1199951171875
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "KP_Cemetery",
+            "Position": [
+                1177.8599853515626,
+                0.0,
+                837.3800048828125
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        }
+    ],
+    "ExcludedRoamingBuildings": [
+        "Land_CementWorks_Hall2_Grey",
+        "Land_Factory_Small",
+        "Land_House_1W09",
+        "Land_House_2W03",
+        "Land_HouseBlock_1F4",
+        "Land_Boathouse",
+        "Land_Mine_Building",
+        "Land_Shed_W2",
+        "Land_Tenement_Big",
+        "Land_Misc_Toilet_Mobile",
+        "Land_Ship_Medium2"
+    ],
+    "NoGoAreas": []
+}

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<!--
+
+    Mounts & Sights: Spawnable Types XML:
+    - - - - - - - - - - - - - - - - - - -
+
+    - This XML configures the bolt and break action rifles to have a good chance to spawn with a mount. That is
+    meant to keep a looting progression and experience similar to the AWS mod.
+
+-->
+
+<spawnabletypes>
+    <!-- Vanilla bolt and break action rifles: -->
+    <type name="CZ527">
+        <damage min="0.3" max="0.7" />
+        <attachments chance="0.30">
+            <item name="Mag_CZ527_5rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="0.20" />
+            <item name="Akol_CZRail_NoAttachment" chance="0.70" />
+        </attachments>
+    </type>
+    <type name="CZ550">
+        <damage min="0.3" max="0.7" />
+        <attachments chance="0.30">
+            <item name="Mag_CZ550_10rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="0.20" />
+            <item name="Akol_CZRail_NoAttachment" chance="0.70" />
+        </attachments>
+    </type>
+    <type name="Winchester70">
+        <damage min="0.3" max="0.7" />
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="0.20" />
+            <item name="Akol_M700Rail_NoAttachment" chance="0.70" />
+        </attachments>
+    </type>
+    <type name="B95">
+        <damage min="0.3" max="0.7" />
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="0.20" />
+            <item name="Akol_B95Rail_NoAttachment" chance="0.70" />
+        </attachments>
+    </type>
+    <type name="Mosin9130">
+        <damage min="0.3" max="0.7" />
+        <attachments chance="0.10">
+            <item name="Mosin_Compensator" chance="1.00" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="PUScopeOptic" chance="0.80" />
+            <item name="Akol_MosinMount_NoAttachment" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="SKS">
+        <damage min="0.3" max="0.7" />
+        <attachments chance="0.10">
+            <item name="PUScopeOptic" chance="0.80" />
+            <item name="Akol_MosinMount_NoAttachment" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="Colt1911">
+        <attachments chance="0.05">
+            <item name="PistolSuppressor" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mag_1911_7Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Akol_PistolMount_NoAttachment" chance="1.00" />
+        </attachments>
+    </type>
+    <!-- Mounts & Sights - Mounts: -->
+    <type name="Akol_AKMount_NoAttachment">
+        <damage min="0.0" max="0.3" />
+    </type>
+    <type name="Akol_MosinMount_NoAttachment">
+        <damage min="0.0" max="0.3" />
+    </type>
+    <type name="Akol_CZRail_NoAttachment">
+        <damage min="0.0" max="0.3" />
+    </type>
+    <type name="Akol_M700Rail_NoAttachment">
+        <damage min="0.0" max="0.3" />
+    </type>
+    <type name="Akol_B95Rail_NoAttachment">
+        <damage min="0.0" max="0.3" />
+    </type>
+    <type name="Akol_UniversalRail_NoAttachment">
+        <damage min="0.0" max="0.3" />
+    </type>
+    <type name="Akol_PistolMount_NoAttachment">
+        <damage min="0.0" max="0.3" />
+    </type>
+    <type name="Akol_MRDSMount">
+        <damage min="0.0" max="0.3" />
+        <attachments chance="0.50">
+            <item name="FNP45_MRDSOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <!-- Mounts & Sights - Sights: -->
+    <type name="Akol_Magnifier">
+        <damage min="0.0" max="0.4" />
+        <attachments chance="0.50">
+            <item name="Akol_Exps" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Akol_Exps">
+        <damage min="0.0" max="0.4" />
+    </type>
+    <type name="Akol_Specter6x">
+        <damage min="0.0" max="0.5" />
+    </type>
+    <type name="Akol_RailHuntingOptic">
+        <damage min="0.0" max="0.5" />
+    </type>
+    <type name="Akol_Pilad">
+        <damage min="0.0" max="0.5" />
+    </type>
+</spawnabletypes>

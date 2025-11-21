@@ -1,0 +1,91 @@
+{
+  "Version": "2.5",
+  "VehiclesParts": [
+
+{
+    "VehicleName": "ToyotaRunner",
+    "Height": 0,
+    "VehicleParts": [
+        "Runner_Wheel",
+        "Runner_Wheel",
+        "Runner_Wheel",
+        "Runner_Wheel",
+        "CarBattery",
+        "SparkPlug",
+        "CarRadiator",
+        "Runner_DriverDoor",
+        "Runner_CoDriver_Door",
+        "Runner_Cargo1",
+        "Runner_Cargo2",
+        "Runner_Hood",
+        "Runner_Trunk",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+},
+{
+    "VehicleName": "ToyotaRunner_Black",
+    "Height": 0,
+    "VehicleParts": [
+        "Runner_Wheel",
+        "Runner_Wheel",
+        "Runner_Wheel",
+        "Runner_Wheel",
+        "CarBattery",
+        "SparkPlug",
+        "CarRadiator",
+        "Runner_DriverDoor",
+        "Runner_CoDriver_Door",
+        "Runner_Cargo1",
+        "Runner_Cargo2",
+        "Runner_Hood",
+        "Runner_Trunk",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+},
+{
+    "VehicleName": "ToyotaRunner_camoblack",
+    "Height": 0,
+    "VehicleParts": [
+        "Runner_Wheel",
+        "Runner_Wheel",
+        "Runner_Wheel",
+        "Runner_Wheel",
+        "CarBattery",
+        "SparkPlug",
+        "CarRadiator",
+        "Runner_DriverDoor_camoblack",
+        "Runner_CoDriver_Door_camoblack",
+        "Runner_Cargo1_camoblack",
+        "Runner_Cargo2_camoblack",
+        "Runner_Hood_camoblack",
+        "Runner_Trunk_camoblack",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+},
+{
+    "VehicleName": "ToyotaRunner_camowhite",
+    "Height": 0,
+    "VehicleParts": [
+        "Runner_Wheel",
+        "Runner_Wheel",
+        "Runner_Wheel",
+        "Runner_Wheel",
+        "CarBattery",
+        "SparkPlug",
+        "CarRadiator",
+        "Runner_DriverDoor_camowhite",
+        "Runner_CoDriver_Door_camowhite",
+        "Runner_Cargo1_camowhite",
+        "Runner_Cargo2_camowhite",
+        "Runner_Hood_camowhite",
+        "Runner_Trunk_camowhite",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+    }
+  ]
+}
+

@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="ToyotaRunner_camored">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_DriverDoor_camored" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_CoDriver_Door_camored" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo1_camored" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo2_camored" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Hood_camored" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Trunk_camored" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+	</type>
+	<type name="ToyotaRunner_red">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_DriverDoor_red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_CoDriver_Door_red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo1_red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo2_red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Hood_red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Trunk_red" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+	</type>
+	<type name="ToyotaRunner_camopurple">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_DriverDoor_camopurple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_CoDriver_Door_camopurple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo1_camopurple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo2_camopurple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Hood_camopurple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Trunk_camopurple" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+	</type>
+	<type name="ToyotaRunner_camopink">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_DriverDoor_camopink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_CoDriver_Door_camopink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo1_camopink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo2_camopink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Hood_camopink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Trunk_camopink" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+	</type>
+	<type name="ToyotaRunner_camoblack">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_DriverDoor_camoblack" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_CoDriver_Door_camoblack" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo1_camoblack" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo2_camoblack" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Hood_camoblack" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Trunk_camoblack" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+	</type>
+	<type name="ToyotaRunner_yellow">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_DriverDoor_yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_CoDriver_Door_yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo1_yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo2_yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Hood_yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Trunk_yellow" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+	</type>
+	<type name="ToyotaRunner_Black">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_DriverDoor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_CoDriver_Door" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Trunk" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+	</type>
+	<type name="ToyotaRunner_camogreen">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_DriverDoor_camogreen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_CoDriver_Door_camogreen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo1_camogreen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo2_camogreen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Hood_camogreen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Trunk_camogreen" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+	</type>
+	<type name="ToyotaRunner_camowhite">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_DriverDoor_camowhite" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_CoDriver_Door_camowhite" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo1_camowhite" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo2_camowhite" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Hood_camowhite" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Trunk_camowhite" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+	</type>
+	<type name="ToyotaRunner_pink">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_DriverDoor_pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_CoDriver_Door_pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo1_pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo2_pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Hood_pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Trunk_pink" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+	</type>
+	<type name="ToyotaRunner_blue">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_DriverDoor_blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_CoDriver_Door_blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo1_blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo2_blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Hood_blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Trunk_blue" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+	</type>
+	<type name="ToyotaRunner_white">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_DriverDoor_white" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_CoDriver_Door_white" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo1_white" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo2_white" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Hood_white" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Trunk_white" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+	</type>
+	<type name="ToyotaRunner_camoblue">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_DriverDoor_camoblue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_CoDriver_Door_camoblue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo1_camoblue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Cargo2_camoblue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Hood_camoblue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Runner_Trunk_camoblue" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HeadlightH7" />
+		</cargo>
+	</type>
+</spawnabletypes>
+
+
+

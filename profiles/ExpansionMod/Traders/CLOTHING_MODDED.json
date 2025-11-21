@@ -1,0 +1,33 @@
+{
+    "m_Version": 13,
+    "DisplayName": "MODDED CLOTHING",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 999999999,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Soldier",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "UseCategoryOrder": 0,
+    "Categories": [
+        "FOG_BAGS",
+        "FOG_BELTS",
+        "FOG_GLOVES",
+        "FOG_HELMETS",
+        "FOG_HELMET_ACCESSORIES",
+        "FOG_MASKS",
+        "FOG_MISC",
+        "FOG_NVG",
+        "FOG_PANTS",
+        "FOG_PATCHES",
+        "FOG_POUCHES_AND_ACCESSORIES",
+        "FOG_SHIRTS",
+        "FOG_SHOES",
+        "FOG_VESTS",
+        "FOG_WEAPONS"
+    ],
+    "Items": {}
+}

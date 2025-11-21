@@ -1,0 +1,356 @@
+18.11.2025 11:19:55 [AirRaid] 'AirRaid.json' found, loading existing config
+18.11.2025 11:19:55 [AirRaid] Air Raid started!
+18.11.2025 11:19:55 [AirRaid] World name swansisland
+18.11.2025 11:19:55 [AirRaid] World size 2048 meters, you can override in json config if automatic mapsize detection failed
+18.11.2025 11:44:07 [AirRaid] 'AirRaid.json' found, loading existing config
+18.11.2025 11:44:07 [AirRaid] Air Raid started!
+18.11.2025 11:44:07 [AirRaid] World name swansisland
+18.11.2025 11:44:07 [AirRaid] World size 2048 meters, you can override in json config if automatic mapsize detection failed
+18.11.2025 11:44:07 [AirRaid] World size overriden by json config to 15360 meters
+18.11.2025 12:54:07 [AirRaid] 'AirRaid.json' found, loading existing config
+18.11.2025 12:54:07 [AirRaid] Air Raid started!
+18.11.2025 12:54:07 [AirRaid] World name swansisland
+18.11.2025 12:54:07 [AirRaid] World size 2048 meters, you can override in json config if automatic mapsize detection failed
+18.11.2025 12:54:07 [AirRaid] World size overriden by json config to 15360 meters
+18.11.2025 13:00:21 [AirRaid] 'AirRaid.json' found, loading existing config
+18.11.2025 13:00:21 [AirRaid] Air Raid started!
+18.11.2025 13:00:21 [AirRaid] World name swansisland
+18.11.2025 13:00:21 [AirRaid] World size 2048 meters, you can override in json config if automatic mapsize detection failed
+18.11.2025 13:00:21 [AirRaid] World size overriden by json config to 15360 meters
+18.11.2025 14:47:55 [AirRaid] 'AirRaid.json' found, loading existing config
+18.11.2025 14:47:55 [AirRaid] Air Raid started!
+18.11.2025 14:47:55 [AirRaid] World name swansisland
+18.11.2025 14:47:55 [AirRaid] World size 2048 meters, you can override in json config if automatic mapsize detection failed
+18.11.2025 14:47:55 [AirRaid] World size overriden by json config to 2048 meters
+18.11.2025 15:03:17 [AirRaid] 'AirRaid.json' found, loading existing config
+18.11.2025 15:03:17 [AirRaid] Air Raid started!
+18.11.2025 15:03:17 [AirRaid] World name swansisland
+18.11.2025 15:03:17 [AirRaid] World size 2048 meters, you can override in json config if automatic mapsize detection failed
+18.11.2025 15:03:17 [AirRaid] World size overriden by json config to 2048 meters
+18.11.2025 15:17:44 [AirRaid] 'AirRaid.json' found, loading existing config
+18.11.2025 15:17:44 [AirRaid] Air Raid started!
+18.11.2025 15:17:44 [AirRaid] World name swansisland
+18.11.2025 15:17:44 [AirRaid] World size 2048 meters, you can override in json config if automatic mapsize detection failed
+18.11.2025 15:17:44 [AirRaid] World size overriden by json config to 2048 meters
+18.11.2025 15:37:10 [AirRaid] 'AirRaid.json' found, loading existing config
+18.11.2025 15:37:10 [AirRaid] Air Raid started!
+18.11.2025 15:37:10 [AirRaid] World name swansisland
+18.11.2025 15:37:10 [AirRaid] World size 2048 meters, you can override in json config if automatic mapsize detection failed
+18.11.2025 15:37:10 [AirRaid] World size overriden by json config to 2048 meters
+18.11.2025 15:47:19 [AirRaid] Bomber plane spawn <67.939575, 550.000000, 2048.000000>
+18.11.2025 15:47:19 [AirRaid] random Bombing target South Airfield <1644.000000, 0.000000, 570.000000>
+18.11.2025 15:47:19 [AirRaid] bomber angle -0.753301
+18.11.2025 15:47:19 [AirRaid] member angle -0.753301
+18.11.2025 15:47:19 [AirRaid] member angle -0.753301
+18.11.2025 15:47:19 [AirRaid] Started siren at coords <1612.000000, 24.000000, 660.000000>
+18.11.2025 15:47:46 [AirRaid] Stopped siren at coords <1612.000000, 24.000000, 660.000000>
+18.11.2025 15:57:18 [AirRaid] Bomber plane spawn <2048.000000, 550.000000, 1920.933594>
+18.11.2025 15:57:18 [AirRaid] random Bombing target North Beach <1028.000000, 0.000000, 1383.000000>
+18.11.2025 15:57:18 [AirRaid] bomber angle -2.65628
+18.11.2025 15:57:18 [AirRaid] member angle -2.65628
+18.11.2025 15:57:18 [AirRaid] member angle -2.65628
+18.11.2025 15:57:18 [AirRaid] Started siren at coords <1028.000000, 24.000000, 1383.000000>
+18.11.2025 15:57:40 [AirRaid] Stopped siren at coords <1028.000000, 24.000000, 1383.000000>
+18.11.2025 15:57:41 [AirRaid] Stopped siren at coords <1028.000000, 24.000000, 1383.000000>
+18.11.2025 16:00:25 [AirRaid] 'AirRaid.json' found, loading existing config
+18.11.2025 16:00:25 [AirRaid] Air Raid started!
+18.11.2025 16:00:25 [AirRaid] World name swansisland
+18.11.2025 16:00:25 [AirRaid] World size 2048 meters, you can override in json config if automatic mapsize detection failed
+18.11.2025 16:00:25 [AirRaid] World size overriden by json config to 2048 meters
+18.11.2025 16:10:34 [AirRaid] Bomber plane spawn <163.567490, 550.000000, 0.000000>
+18.11.2025 16:10:34 [AirRaid] random Bombing target Hotel <998.000000, 0.000000, 804.000000>
+18.11.2025 16:10:34 [AirRaid] bomber angle 0.766826
+18.11.2025 16:10:34 [AirRaid] member angle 0.766826
+18.11.2025 16:10:34 [AirRaid] member angle 0.766826
+18.11.2025 16:10:34 [AirRaid] Started siren at coords <978.000000, 24.000000, 814.000000>
+18.11.2025 16:10:58 [AirRaid] Stopped siren at coords <978.000000, 24.000000, 814.000000>
+18.11.2025 16:11:00 [AirRaid] Stopped siren at coords <978.000000, 24.000000, 814.000000>
+18.11.2025 16:20:33 [AirRaid] Bomber plane spawn <550.829285, 550.000000, 2048.000000>
+18.11.2025 16:20:33 [AirRaid] random Bombing target South Airfield <1644.000000, 0.000000, 570.000000>
+18.11.2025 16:20:33 [AirRaid] bomber angle -0.933966
+18.11.2025 16:20:33 [AirRaid] member angle -0.933966
+18.11.2025 16:20:33 [AirRaid] member angle -0.933966
+18.11.2025 16:20:33 [AirRaid] Started siren at coords <1612.000000, 24.000000, 660.000000>
+18.11.2025 16:20:59 [AirRaid] Stopped siren at coords <1612.000000, 24.000000, 660.000000>
+18.11.2025 16:30:33 [AirRaid] Bomber plane spawn <38.938690, 550.000000, 2048.000000>
+18.11.2025 16:30:33 [AirRaid] random Bombing target Parking Place <1086.500000, 0.000000, 1194.500000>
+18.11.2025 16:30:33 [AirRaid] bomber angle -0.68367
+18.11.2025 16:30:33 [AirRaid] member angle -0.68367
+18.11.2025 16:30:33 [AirRaid] member angle -0.68367
+18.11.2025 16:30:33 [AirRaid] Started siren at coords <1086.500000, 24.000000, 1194.500000>
+18.11.2025 16:30:57 [AirRaid] Stopped siren at coords <1086.500000, 24.000000, 1194.500000>
+18.11.2025 16:30:59 [AirRaid] Stopped siren at coords <1086.500000, 24.000000, 1194.500000>
+18.11.2025 16:40:32 [AirRaid] Bomber plane spawn <1807.742676, 550.000000, 0.000000>
+18.11.2025 16:40:32 [AirRaid] random Bombing target Hotel <998.000000, 0.000000, 804.000000>
+18.11.2025 16:40:32 [AirRaid] bomber angle 2.35975
+18.11.2025 16:40:32 [AirRaid] member angle 2.35975
+18.11.2025 16:40:32 [AirRaid] member angle 2.35975
+18.11.2025 16:40:32 [AirRaid] Started siren at coords <978.000000, 24.000000, 814.000000>
+18.11.2025 16:40:53 [AirRaid] Stopped siren at coords <978.000000, 24.000000, 814.000000>
+18.11.2025 16:40:58 [AirRaid] Stopped siren at coords <978.000000, 24.000000, 814.000000>
+18.11.2025 16:41:17 [AirRaid] Mi-24 spawn <0.000000, 550.000000, 1873.557129>
+18.11.2025 16:41:17 [AirRaid] random mi-24 target North Beach <1028.000000, 0.000000, 1383.000000>
+18.11.2025 16:41:17 [AirRaid] Mig-21 spawn <2048.000000, 550.000000, 1267.788696>
+18.11.2025 16:41:17 [AirRaid] random mig-21 target East Airfield <1561.000000, 0.000000, 1105.000000>
+18.11.2025 16:41:26 [AirRaid] Mig-21 is out of map, going to despawn
+18.11.2025 16:41:46 [AirRaid] Mi-24 is out of map, going to despawn
+18.11.2025 16:50:32 [AirRaid] Bomber plane spawn <2048.000000, 550.000000, 1386.604858>
+18.11.2025 16:50:32 [AirRaid] random Bombing target South Beach <1004.000000, 0.000000, 467.000000>
+18.11.2025 16:50:32 [AirRaid] bomber angle -2.41946
+18.11.2025 16:50:32 [AirRaid] member angle -2.41946
+18.11.2025 16:50:32 [AirRaid] member angle -2.41946
+18.11.2025 16:50:32 [AirRaid] Started siren at coords <1004.000000, 24.000000, 467.000000>
+18.11.2025 16:50:53 [AirRaid] Stopped siren at coords <1004.000000, 24.000000, 467.000000>
+18.11.2025 17:00:31 [AirRaid] Bomber plane spawn <711.896729, 550.000000, 2048.000000>
+18.11.2025 17:00:31 [AirRaid] random Bombing target East Airfield <1561.000000, 0.000000, 1105.000000>
+18.11.2025 17:00:31 [AirRaid] bomber angle -0.837745
+18.11.2025 17:00:31 [AirRaid] member angle -0.837745
+18.11.2025 17:00:31 [AirRaid] member angle -0.837745
+18.11.2025 17:00:31 [AirRaid] Started siren at coords <1575.000000, 24.000000, 1265.000000>
+18.11.2025 17:00:51 [AirRaid] Stopped siren at coords <1575.000000, 24.000000, 1265.000000>
+18.11.2025 17:01:46 [AirRaid] Mi-6 spawn <0.000000, 550.000000, 1429.981079>
+18.11.2025 17:01:46 [AirRaid] random mi-6 target Harbor land side <475.000000, 0.000000, 938.500000>
+18.11.2025 17:02:19 [AirRaid] Mi-6 is out of map, going to despawn
+18.11.2025 17:10:31 [AirRaid] Bomber plane spawn <2048.000000, 550.000000, 661.395203>
+18.11.2025 17:10:31 [AirRaid] random Bombing target Harbor land side <475.000000, 0.000000, 938.500000>
+18.11.2025 17:10:31 [AirRaid] bomber angle 2.96722
+18.11.2025 17:10:31 [AirRaid] member angle 2.96722
+18.11.2025 17:10:31 [AirRaid] member angle 2.96722
+18.11.2025 17:10:31 [AirRaid] Started siren at coords <475.000000, 24.000000, 938.500000>
+18.11.2025 17:10:52 [AirRaid] Stopped siren at coords <475.000000, 24.000000, 938.500000>
+18.11.2025 17:20:30 [AirRaid] Bomber plane spawn <2048.000000, 550.000000, 1327.290527>
+18.11.2025 17:20:30 [AirRaid] random Bombing target Harbor land side <475.000000, 0.000000, 938.500000>
+18.11.2025 17:20:30 [AirRaid] bomber angle -2.89928
+18.11.2025 17:20:30 [AirRaid] member angle -2.89928
+18.11.2025 17:20:30 [AirRaid] member angle -2.89928
+18.11.2025 17:20:30 [AirRaid] Started siren at coords <475.000000, 24.000000, 938.500000>
+18.11.2025 17:20:51 [AirRaid] Stopped siren at coords <475.000000, 24.000000, 938.500000>
+18.11.2025 17:22:00 [AirRaid] Mi-24 spawn <729.959778, 550.000000, 0.000000>
+18.11.2025 17:22:00 [AirRaid] random mi-24 target East Airfield <1561.000000, 0.000000, 1105.000000>
+18.11.2025 17:22:00 [AirRaid] Mig-21 spawn <1948.684448, 550.000000, 2048.000000>
+18.11.2025 17:22:00 [AirRaid] random mig-21 target East Airfield <1561.000000, 0.000000, 1105.000000>
+18.11.2025 17:22:09 [AirRaid] Mig-21 is out of map, going to despawn
+18.11.2025 17:22:28 [AirRaid] Mi-24 is out of map, going to despawn
+18.11.2025 17:30:30 [AirRaid] Bomber plane spawn <2048.000000, 550.000000, 282.696136>
+18.11.2025 17:30:30 [AirRaid] random Bombing target Junkyard NW <777.750000, 0.000000, 1137.750000>
+18.11.2025 17:30:30 [AirRaid] bomber angle 2.54912
+18.11.2025 17:30:30 [AirRaid] member angle 2.54912
+18.11.2025 17:30:30 [AirRaid] member angle 2.54912
+18.11.2025 17:30:30 [AirRaid] Started siren at coords <777.750000, 24.000000, 1137.750000>
+18.11.2025 17:30:54 [AirRaid] Stopped siren at coords <777.750000, 24.000000, 1137.750000>
+18.11.2025 17:40:29 [AirRaid] Bomber plane spawn <2048.000000, 550.000000, 1790.429688>
+18.11.2025 17:40:29 [AirRaid] random Bombing target Harbor land side <475.000000, 0.000000, 938.500000>
+18.11.2025 17:40:29 [AirRaid] bomber angle -2.64523
+18.11.2025 17:40:29 [AirRaid] member angle -2.64523
+18.11.2025 17:40:29 [AirRaid] member angle -2.64523
+18.11.2025 17:40:29 [AirRaid] Started siren at coords <475.000000, 24.000000, 938.500000>
+18.11.2025 17:40:53 [AirRaid] Stopped siren at coords <475.000000, 24.000000, 938.500000>
+18.11.2025 17:50:29 [AirRaid] Bomber plane spawn <1325.602905, 550.000000, 0.000000>
+18.11.2025 17:50:29 [AirRaid] random Bombing target Junkyard NW <777.750000, 0.000000, 1137.750000>
+18.11.2025 17:50:29 [AirRaid] bomber angle 2.01955
+18.11.2025 17:50:29 [AirRaid] member angle 2.01955
+18.11.2025 17:50:29 [AirRaid] member angle 2.01955
+18.11.2025 17:50:29 [AirRaid] Started siren at coords <777.750000, 24.000000, 1137.750000>
+18.11.2025 17:50:51 [AirRaid] Stopped siren at coords <777.750000, 24.000000, 1137.750000>
+18.11.2025 18:00:28 [AirRaid] Bomber plane spawn <2048.000000, 550.000000, 1331.790649>
+18.11.2025 18:00:28 [AirRaid] random Bombing target North Haven Middle <672.000000, 0.000000, 777.000000>
+18.11.2025 18:00:28 [AirRaid] bomber angle -2.75834
+18.11.2025 18:00:28 [AirRaid] member angle -2.75834
+18.11.2025 18:00:28 [AirRaid] member angle -2.75834
+18.11.2025 18:00:28 [AirRaid] Started siren at coords <672.000000, 24.000000, 777.000000>
+18.11.2025 18:00:50 [AirRaid] Stopped siren at coords <672.000000, 24.000000, 777.000000>
+18.11.2025 18:02:42 [AirRaid] Mi-24 spawn <2048.000000, 550.000000, 856.588623>
+18.11.2025 18:02:42 [AirRaid] random mi-24 target East Airfield <1561.000000, 0.000000, 1105.000000>
+18.11.2025 18:02:42 [AirRaid] Mig-21 spawn <2048.000000, 550.000000, 982.592468>
+18.11.2025 18:02:42 [AirRaid] random mig-21 target North AI SPawn Side <1474.000000, 0.000000, 1516.000000>
+18.11.2025 18:02:49 [AirRaid] Mig-21 is out of map, going to despawn
+18.11.2025 18:02:57 [AirRaid] Mi-6 spawn <1813.617798, 550.000000, 2048.000000>
+18.11.2025 18:02:57 [AirRaid] random mi-6 target North Beach <1028.000000, 0.000000, 1383.000000>
+18.11.2025 18:03:12 [AirRaid] Mi-24 is out of map, going to despawn
+18.11.2025 18:03:12 [AirRaid] UFO spawn <1011.405884, 550.000000, 2048.000000>
+18.11.2025 18:03:12 [AirRaid] random UFO target North Beach <1028.000000, 0.000000, 1383.000000>
+18.11.2025 18:03:33 [AirRaid] UFO is out of map, going to despawn
+18.11.2025 18:03:37 [AirRaid] Mi-6 is out of map, going to despawn
+18.11.2025 18:10:27 [AirRaid] Bomber plane spawn <0.000000, 550.000000, 1977.185303>
+18.11.2025 18:10:27 [AirRaid] random Bombing target Junkyard NW <777.750000, 0.000000, 1137.750000>
+18.11.2025 18:10:27 [AirRaid] bomber angle -0.823523
+18.11.2025 18:10:27 [AirRaid] member angle -0.823523
+18.11.2025 18:10:27 [AirRaid] member angle -0.823523
+18.11.2025 18:10:27 [AirRaid] Started siren at coords <777.750000, 24.000000, 1137.750000>
+18.11.2025 18:10:51 [AirRaid] Stopped siren at coords <777.750000, 24.000000, 1137.750000>
+18.11.2025 18:10:55 [AirRaid] Stopped siren at coords <777.750000, 24.000000, 1137.750000>
+18.11.2025 18:20:27 [AirRaid] Bomber plane spawn <172.380264, 550.000000, 0.000000>
+18.11.2025 18:20:27 [AirRaid] random Bombing target North Haven Middle <672.000000, 0.000000, 777.000000>
+18.11.2025 18:20:27 [AirRaid] bomber angle 0.99935
+18.11.2025 18:20:27 [AirRaid] member angle 0.99935
+18.11.2025 18:20:27 [AirRaid] member angle 0.99935
+18.11.2025 18:20:27 [AirRaid] Started siren at coords <672.000000, 24.000000, 777.000000>
+18.11.2025 18:20:48 [AirRaid] Stopped siren at coords <672.000000, 24.000000, 777.000000>
+18.11.2025 18:20:51 [AirRaid] Stopped siren at coords <672.000000, 24.000000, 777.000000>
+18.11.2025 18:30:26 [AirRaid] Bomber plane spawn <2048.000000, 550.000000, 1814.367920>
+18.11.2025 18:30:26 [AirRaid] random Bombing target South Beach <1004.000000, 0.000000, 467.000000>
+18.11.2025 18:30:26 [AirRaid] bomber angle -2.23001
+18.11.2025 18:30:26 [AirRaid] member angle -2.23001
+18.11.2025 18:30:26 [AirRaid] member angle -2.23001
+18.11.2025 18:30:26 [AirRaid] Started siren at coords <1004.000000, 24.000000, 467.000000>
+18.11.2025 18:30:49 [AirRaid] Stopped siren at coords <1004.000000, 24.000000, 467.000000>
+18.11.2025 18:40:26 [AirRaid] Bomber plane spawn <2048.000000, 550.000000, 1518.546387>
+18.11.2025 18:40:26 [AirRaid] random Bombing target South Airfield <1644.000000, 0.000000, 570.000000>
+18.11.2025 18:40:26 [AirRaid] bomber angle -1.97344
+18.11.2025 18:40:26 [AirRaid] member angle -1.97344
+18.11.2025 18:40:26 [AirRaid] member angle -1.97344
+18.11.2025 18:40:26 [AirRaid] Started siren at coords <1612.000000, 24.000000, 660.000000>
+18.11.2025 18:40:42 [AirRaid] Stopped siren at coords <1612.000000, 24.000000, 660.000000>
+18.11.2025 18:43:25 [AirRaid] Mi-24 spawn <2048.000000, 550.000000, 1513.108643>
+18.11.2025 18:43:25 [AirRaid] random mi-24 target South Airfield <1644.000000, 0.000000, 570.000000>
+18.11.2025 18:43:25 [AirRaid] Mig-21 spawn <2048.000000, 550.000000, 1772.741577>
+18.11.2025 18:43:25 [AirRaid] random mig-21 target South Beach <1004.000000, 0.000000, 467.000000>
+18.11.2025 18:43:34 [AirRaid] Mig-21 is out of map, going to despawn
+18.11.2025 18:43:46 [AirRaid] Mi-24 is out of map, going to despawn
+18.11.2025 18:50:25 [AirRaid] Bomber plane spawn <0.000000, 550.000000, 303.134247>
+18.11.2025 18:50:25 [AirRaid] random Bombing target Parking Place <1086.500000, 0.000000, 1194.500000>
+18.11.2025 18:50:25 [AirRaid] bomber angle 0.687057
+18.11.2025 18:50:25 [AirRaid] member angle 0.687057
+18.11.2025 18:50:25 [AirRaid] member angle 0.687057
+18.11.2025 18:50:25 [AirRaid] Started siren at coords <1086.500000, 24.000000, 1194.500000>
+18.11.2025 18:50:50 [AirRaid] Stopped siren at coords <1086.500000, 24.000000, 1194.500000>
+18.11.2025 18:50:52 [AirRaid] Stopped siren at coords <1086.500000, 24.000000, 1194.500000>
+18.11.2025 19:00:27 [AirRaid] 'AirRaid.json' found, loading existing config
+18.11.2025 19:00:27 [AirRaid] Air Raid started!
+18.11.2025 19:00:27 [AirRaid] World name swansisland
+18.11.2025 19:00:27 [AirRaid] World size 2048 meters, you can override in json config if automatic mapsize detection failed
+18.11.2025 19:00:27 [AirRaid] World size overriden by json config to 2048 meters
+18.11.2025 19:10:36 [AirRaid] Bomber plane spawn <1697.989258, 550.000000, 2048.000000>
+18.11.2025 19:10:36 [AirRaid] random Bombing target Harbor land side <475.000000, 0.000000, 938.500000>
+18.11.2025 19:10:36 [AirRaid] bomber angle -2.40481
+18.11.2025 19:10:36 [AirRaid] member angle -2.40481
+18.11.2025 19:10:36 [AirRaid] member angle -2.40481
+18.11.2025 19:10:36 [AirRaid] Started siren at coords <475.000000, 24.000000, 938.500000>
+18.11.2025 19:10:59 [AirRaid] Stopped siren at coords <475.000000, 24.000000, 938.500000>
+18.11.2025 19:20:35 [AirRaid] Bomber plane spawn <1056.532227, 550.000000, 2048.000000>
+18.11.2025 19:20:35 [AirRaid] random Bombing target South Airfield <1644.000000, 0.000000, 570.000000>
+18.11.2025 19:20:35 [AirRaid] bomber angle -1.19247
+18.11.2025 19:20:35 [AirRaid] member angle -1.19247
+18.11.2025 19:20:35 [AirRaid] member angle -1.19247
+18.11.2025 19:20:35 [AirRaid] Started siren at coords <1612.000000, 24.000000, 660.000000>
+18.11.2025 19:20:58 [AirRaid] Stopped siren at coords <1612.000000, 24.000000, 660.000000>
+18.11.2025 19:30:35 [AirRaid] Bomber plane spawn <1583.110840, 550.000000, 2048.000000>
+18.11.2025 19:30:35 [AirRaid] random Bombing target North AI SPawn Side <1474.000000, 0.000000, 1516.000000>
+18.11.2025 19:30:35 [AirRaid] bomber angle -1.77309
+18.11.2025 19:30:35 [AirRaid] member angle -1.77309
+18.11.2025 19:30:35 [AirRaid] member angle -1.77309
+18.11.2025 19:30:35 [AirRaid] Started siren at coords <1610.000000, 24.000000, 1446.000000>
+18.11.2025 19:30:51 [AirRaid] Stopped siren at coords <1610.000000, 24.000000, 1446.000000>
+18.11.2025 19:30:56 [AirRaid] Stopped siren at coords <1610.000000, 24.000000, 1446.000000>
+18.11.2025 19:40:34 [AirRaid] Bomber plane spawn <0.000000, 550.000000, 208.943878>
+18.11.2025 19:40:34 [AirRaid] random Bombing target South Airfield <1644.000000, 0.000000, 570.000000>
+18.11.2025 19:40:34 [AirRaid] bomber angle 0.216188
+18.11.2025 19:40:34 [AirRaid] member angle 0.216188
+18.11.2025 19:40:34 [AirRaid] member angle 0.216188
+18.11.2025 19:40:34 [AirRaid] Started siren at coords <1612.000000, 24.000000, 660.000000>
+18.11.2025 19:40:55 [AirRaid] Stopped siren at coords <1612.000000, 24.000000, 660.000000>
+18.11.2025 19:50:33 [AirRaid] Bomber plane spawn <2048.000000, 550.000000, 760.835693>
+18.11.2025 19:50:33 [AirRaid] random Bombing target Parking Place <1086.500000, 0.000000, 1194.500000>
+18.11.2025 19:50:33 [AirRaid] bomber angle 2.71788
+18.11.2025 19:50:33 [AirRaid] member angle 2.71788
+18.11.2025 19:50:33 [AirRaid] member angle 2.71788
+18.11.2025 19:50:33 [AirRaid] Started siren at coords <1086.500000, 24.000000, 1194.500000>
+18.11.2025 19:50:55 [AirRaid] Stopped siren at coords <1086.500000, 24.000000, 1194.500000>
+18.11.2025 19:50:56 [AirRaid] Stopped siren at coords <1086.500000, 24.000000, 1194.500000>
+18.11.2025 20:00:33 [AirRaid] Bomber plane spawn <0.000000, 550.000000, 1574.673096>
+18.11.2025 20:00:33 [AirRaid] random Bombing target Harbor land side <475.000000, 0.000000, 938.500000>
+18.11.2025 20:00:33 [AirRaid] bomber angle -0.929441
+18.11.2025 20:00:33 [AirRaid] member angle -0.929441
+18.11.2025 20:00:33 [AirRaid] member angle -0.929441
+18.11.2025 20:00:33 [AirRaid] Started siren at coords <475.000000, 24.000000, 938.500000>
+18.11.2025 20:00:52 [AirRaid] Stopped siren at coords <475.000000, 24.000000, 938.500000>
+18.11.2025 20:00:53 [AirRaid] Stopped siren at coords <475.000000, 24.000000, 938.500000>
+18.11.2025 20:01:47 [AirRaid] Mi-6 spawn <2048.000000, 550.000000, 1228.224976>
+18.11.2025 20:01:47 [AirRaid] random mi-6 target Hotel <998.000000, 0.000000, 804.000000>
+18.11.2025 20:02:24 [AirRaid] Mi-6 is out of map, going to despawn
+18.11.2025 20:10:33 [AirRaid] Bomber plane spawn <2048.000000, 550.000000, 814.399841>
+18.11.2025 20:10:33 [AirRaid] random Bombing target South Airfield <1644.000000, 0.000000, 570.000000>
+18.11.2025 20:10:33 [AirRaid] bomber angle -2.59754
+18.11.2025 20:10:33 [AirRaid] member angle -2.59754
+18.11.2025 20:10:33 [AirRaid] member angle -2.59754
+18.11.2025 20:10:33 [AirRaid] Started siren at coords <1612.000000, 24.000000, 660.000000>
+18.11.2025 20:10:49 [AirRaid] Stopped siren at coords <1612.000000, 24.000000, 660.000000>
+18.11.2025 20:10:49 [AirRaid] Stopped siren at coords <1612.000000, 24.000000, 660.000000>
+18.11.2025 20:20:32 [AirRaid] Bomber plane spawn <392.949493, 550.000000, 0.000000>
+18.11.2025 20:20:32 [AirRaid] random Bombing target Island Middle <1130.000000, 0.000000, 953.000000>
+18.11.2025 20:20:32 [AirRaid] bomber angle 0.912486
+18.11.2025 20:20:32 [AirRaid] member angle 0.912486
+18.11.2025 20:20:32 [AirRaid] member angle 0.912486
+18.11.2025 20:20:32 [AirRaid] Started siren at coords <1130.000000, 24.000000, 953.000000>
+18.11.2025 20:20:54 [AirRaid] Stopped siren at coords <1130.000000, 24.000000, 953.000000>
+18.11.2025 20:20:58 [AirRaid] Stopped siren at coords <1130.000000, 24.000000, 953.000000>
+18.11.2025 20:30:31 [AirRaid] Bomber plane spawn <195.443466, 550.000000, 0.000000>
+18.11.2025 20:30:31 [AirRaid] random Bombing target South Airfield <1644.000000, 0.000000, 570.000000>
+18.11.2025 20:30:31 [AirRaid] bomber angle 0.374886
+18.11.2025 20:30:31 [AirRaid] member angle 0.374886
+18.11.2025 20:30:31 [AirRaid] member angle 0.374886
+18.11.2025 20:30:31 [AirRaid] Started siren at coords <1612.000000, 24.000000, 660.000000>
+18.11.2025 20:30:51 [AirRaid] Stopped siren at coords <1612.000000, 24.000000, 660.000000>
+18.11.2025 20:40:31 [AirRaid] Bomber plane spawn <839.275635, 550.000000, 0.000000>
+18.11.2025 20:40:31 [AirRaid] random Bombing target North Beach <1028.000000, 0.000000, 1383.000000>
+18.11.2025 20:40:31 [AirRaid] bomber angle 1.43517
+18.11.2025 20:40:31 [AirRaid] member angle 1.43517
+18.11.2025 20:40:31 [AirRaid] member angle 1.43517
+18.11.2025 20:40:31 [AirRaid] Started siren at coords <1028.000000, 24.000000, 1383.000000>
+18.11.2025 20:40:52 [AirRaid] Stopped siren at coords <1028.000000, 24.000000, 1383.000000>
+18.11.2025 20:50:30 [AirRaid] Bomber plane spawn <2048.000000, 550.000000, 1165.848022>
+18.11.2025 20:50:30 [AirRaid] random Bombing target South Beach <1004.000000, 0.000000, 467.000000>
+18.11.2025 20:50:30 [AirRaid] bomber angle -2.5517
+18.11.2025 20:50:30 [AirRaid] member angle -2.5517
+18.11.2025 20:50:30 [AirRaid] member angle -2.5517
+18.11.2025 20:50:30 [AirRaid] Started siren at coords <1004.000000, 24.000000, 467.000000>
+18.11.2025 20:50:52 [AirRaid] Stopped siren at coords <1004.000000, 24.000000, 467.000000>
+18.11.2025 21:00:30 [AirRaid] Bomber plane spawn <0.000000, 550.000000, 80.002441>
+18.11.2025 21:00:30 [AirRaid] random Bombing target North Beach <1028.000000, 0.000000, 1383.000000>
+18.11.2025 21:00:30 [AirRaid] bomber angle 0.90283
+18.11.2025 21:00:30 [AirRaid] member angle 0.90283
+18.11.2025 21:00:30 [AirRaid] member angle 0.90283
+18.11.2025 21:00:30 [AirRaid] Started siren at coords <1028.000000, 24.000000, 1383.000000>
+18.11.2025 21:00:55 [AirRaid] Stopped siren at coords <1028.000000, 24.000000, 1383.000000>
+18.11.2025 21:02:56 [AirRaid] Mi-6 spawn <2048.000000, 550.000000, 1746.865845>
+18.11.2025 21:02:56 [AirRaid] random mi-6 target North Haven Middle <672.000000, 0.000000, 777.000000>
+18.11.2025 21:03:38 [AirRaid] Mi-6 is out of map, going to despawn
+18.11.2025 21:10:29 [AirRaid] Bomber plane spawn <2003.686157, 550.000000, 2048.000000>
+18.11.2025 21:10:29 [AirRaid] random Bombing target North Beach <1028.000000, 0.000000, 1383.000000>
+18.11.2025 21:10:29 [AirRaid] bomber angle -2.54334
+18.11.2025 21:10:29 [AirRaid] member angle -2.54334
+18.11.2025 21:10:29 [AirRaid] member angle -2.54334
+18.11.2025 21:10:29 [AirRaid] Started siren at coords <1028.000000, 24.000000, 1383.000000>
+18.11.2025 21:10:52 [AirRaid] Stopped siren at coords <1028.000000, 24.000000, 1383.000000>
+18.11.2025 21:10:54 [AirRaid] Stopped siren at coords <1028.000000, 24.000000, 1383.000000>
+18.11.2025 21:20:29 [AirRaid] Bomber plane spawn <2048.000000, 550.000000, 303.446747>
+18.11.2025 21:20:29 [AirRaid] random Bombing target Island Middle <1130.000000, 0.000000, 953.000000>
+18.11.2025 21:20:29 [AirRaid] bomber angle 2.5258
+18.11.2025 21:20:29 [AirRaid] member angle 2.5258
+18.11.2025 21:20:29 [AirRaid] member angle 2.5258
+18.11.2025 21:20:29 [AirRaid] Started siren at coords <1130.000000, 24.000000, 953.000000>
+18.11.2025 21:20:52 [AirRaid] Stopped siren at coords <1130.000000, 24.000000, 953.000000>
+18.11.2025 21:20:54 [AirRaid] Stopped siren at coords <1130.000000, 24.000000, 953.000000>
+18.11.2025 21:30:28 [AirRaid] Bomber plane spawn <1000.030518, 550.000000, 0.000000>
+18.11.2025 21:30:28 [AirRaid] random Bombing target South Beach <1004.000000, 0.000000, 467.000000>
+18.11.2025 21:30:28 [AirRaid] bomber angle 1.5623
+18.11.2025 21:30:28 [AirRaid] member angle 1.5623
+18.11.2025 21:30:28 [AirRaid] member angle 1.5623
+18.11.2025 21:30:28 [AirRaid] Started siren at coords <1004.000000, 24.000000, 467.000000>
+18.11.2025 21:30:43 [AirRaid] Stopped siren at coords <1004.000000, 24.000000, 467.000000>
+18.11.2025 21:30:49 [AirRaid] Stopped siren at coords <1004.000000, 24.000000, 467.000000>
+18.11.2025 21:40:28 [AirRaid] Bomber plane spawn <0.000000, 550.000000, 455.263885>
+18.11.2025 21:40:28 [AirRaid] random Bombing target Parking Place <1086.500000, 0.000000, 1194.500000>
+18.11.2025 21:40:28 [AirRaid] bomber angle 0.597438
+18.11.2025 21:40:28 [AirRaid] member angle 0.597438
+18.11.2025 21:40:28 [AirRaid] member angle 0.597438
+18.11.2025 21:40:28 [AirRaid] Started siren at coords <1086.500000, 24.000000, 1194.500000>
+18.11.2025 21:40:52 [AirRaid] Stopped siren at coords <1086.500000, 24.000000, 1194.500000>
+18.11.2025 21:40:53 [AirRaid] Stopped siren at coords <1086.500000, 24.000000, 1194.500000>
+18.11.2025 21:50:27 [AirRaid] Bomber plane spawn <2048.000000, 550.000000, 2039.249756>
+18.11.2025 21:50:27 [AirRaid] random Bombing target Hotel <998.000000, 0.000000, 804.000000>
+18.11.2025 21:50:27 [AirRaid] bomber angle -2.27531
+18.11.2025 21:50:27 [AirRaid] member angle -2.27531
+18.11.2025 21:50:27 [AirRaid] member angle -2.27531
+18.11.2025 21:50:27 [AirRaid] Started siren at coords <978.000000, 24.000000, 814.000000>
+18.11.2025 21:50:54 [AirRaid] Stopped siren at coords <978.000000, 24.000000, 814.000000>

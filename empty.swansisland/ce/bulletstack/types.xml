@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<!-- M4 BASED SUPPRESSORS -->
+<type name="CDS_Suppressor_M4_01">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="CDS_Suppressor_M4_18">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="CDS_Suppressor_M4_34">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="CDS_Suppressor_M4_Camo106">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="CDS_Suppressor_M4_Camo133">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+<type name="CDS_Suppressor_M4_Camo296">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+	<type name="CDS_Suppressor_M4_Base">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+
+<!-- AK BASED SUPPRESSORS -->
+<type name="CDS_Suppressor_AK_Base">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+<type name="CDS_Suppressor_AK_24">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+<type name="CDS_Suppressor_AK_Camo08">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+<type name="CDS_Suppressor_AK_Camo41">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+<type name="CDS_Suppressor_AK_Camo64">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+<type name="CDS_Suppressor_AK_Camo76">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+<!-- PISTOLS BASED SUPPRESSORS -->
+<type name="CDS_Suppressor_Pistol_Base">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+<type name="CDS_Suppressor_Pistol_Camo41">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+<type name="CDS_Suppressor_Pistol_Camo223">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+<type name="CDS_Suppressor_Pistol_Camo294">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+		</type>
+<type name="CDS_Suppressor_Pistol_Camo296">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+	</type>
+<type name="CDS_Suppressor_Pistol_Camo367">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+		</type>
+<type name="CDS_Suppressor_Pistol_Camo366">
+		<nominal>1</nominal>
+		<lifetime>1800</lifetime>
+		<restock>3600</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<value user="Tier4" />
+		<value user="Tier5" />
+		<value user="Tier6" />
+		<value user="Tier7" />
+		<category name="weapons" />
+		<tag name="military" />
+</type>
+</types>

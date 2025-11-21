@@ -1,0 +1,185 @@
+{
+    "Version": 21,
+    "Spatial_MinTimer": 45.0,
+    "Spatial_MaxTimer": 50.0,
+    "MinDistance": 160,
+    "MaxDistance": 280,
+    "HuntMode": 1,
+    "Points_Enabled": 1,
+    "Locations_Enabled": 2,
+    "Audio_Enabled": 2,
+    "EngageTimer": 15.0,
+    "CleanupTimer": 10.0,
+    "PlayerChecks": -2,
+    "MaxAI": 40,
+    "GroupDifficulty": 1,
+    "MinimumPlayerDistance": 150,
+    "MaxSoloPlayers": 4,
+    "MinimumAge": 45,
+    "ActiveHoursEnabled": 1,
+    "ActiveStartTime": 9.0,
+    "ActiveStopTime": 17.0,
+    "TargetBone": "Neck",
+    "MessageType": 5,
+    "MessageTitle": "Spatial AI",
+    "MessageText": "AI Spotted in the Area. You Will be Taken.",
+    "LootWhitelist": [],
+    "Spatial_InVehicle": 0,
+    "Spatial_IsBleeding": 0,
+    "Spatial_IsRestrained": 0,
+    "Spatial_IsUnconscious": 0,
+    "Spatial_IsInSafeZone": 0,
+    "Spatial_TPSafeZone": 0,
+    "Spatial_InOwnTerritory": 0,
+    "Group": [
+        {
+            "Spatial_MinCount": 1,
+            "Spatial_MaxCount": 2,
+            "Spatial_Weight": 300.0,
+            "Spatial_Loadout": "HumanLoadout.json",
+            "Spatial_Faction": "Mercenaries",
+            "Spatial_Name": "Mercenaries",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 0.30000001192092898,
+            "Spatial_MinAccuracy": 0.44999998807907107,
+            "Spatial_MaxAccuracy": 0.699999988079071,
+            "Spatial_UnlimitedReload": 1
+        }
+    ],
+    "Point": [
+        {
+            "Spatial_Name": "Harbor team",
+            "Spatial_Safe": 0,
+            "Spatial_Radius": 100.0,
+            "Spatial_ZoneLoadout": [
+                "WestLoadout.json"
+            ],
+            "Spatial_MinCount": 1,
+            "Spatial_MaxCount": 3,
+            "Spatial_HuntMode": 1,
+            "Spatial_Faction": "Mercenaries",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 1.0,
+            "Spatial_MinAccuracy": 0.75,
+            "Spatial_MaxAccuracy": 0.949999988079071,
+            "Spatial_UnlimitedReload": 0,
+            "Spatial_Position": [
+                383.9460144042969,
+                8.366470336914063,
+                1045.010009765625
+            ]
+        },
+        {
+            "Spatial_Name": "Chem team",
+            "Spatial_Safe": 0,
+            "Spatial_Radius": 100.0,
+            "Spatial_ZoneLoadout": [
+                "NBCgas.json"
+            ],
+            "Spatial_MinCount": 1,
+            "Spatial_MaxCount": 3,
+            "Spatial_HuntMode": 1,
+            "Spatial_Faction": "Mercenaries",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 1.0,
+            "Spatial_MinAccuracy": 0.75,
+            "Spatial_MaxAccuracy": 0.949999988079071,
+            "Spatial_UnlimitedReload": 0,
+            "Spatial_Position": [
+                2488.0,
+                19.25,
+                5138.240234375
+            ]
+        },                                       
+		{
+            "Spatial_Name": "South AF",
+            "Spatial_Safe": 0,
+            "Spatial_Radius": 100.0,
+            "Spatial_ZoneLoadout": [
+                "Banditloadout.json"
+            ],
+            "Spatial_MinCount": 1,
+            "Spatial_MaxCount": 3,
+            "Spatial_HuntMode": 1,
+            "Spatial_Faction": "Shaman",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 1.0,
+            "Spatial_MinAccuracy": 0.75,
+            "Spatial_MaxAccuracy": 0.949999988079071,
+            "Spatial_UnlimitedReload": 0,
+            "Spatial_Position": [
+                1644.00,
+				19.25,
+				570.00
+            ]
+        },
+		{
+            "Spatial_Name": "North Beach",
+            "Spatial_Safe": 0,
+            "Spatial_Radius": 100.0,
+            "Spatial_ZoneLoadout": [
+                "Banditloadout.json"
+            ],
+            "Spatial_MinCount": 1,
+            "Spatial_MaxCount": 3,
+            "Spatial_HuntMode": 1,
+            "Spatial_Faction": "Shaman",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 1.0,
+            "Spatial_MinAccuracy": 0.75,
+            "Spatial_MaxAccuracy": 0.949999988079071,
+            "Spatial_UnlimitedReload": 0,
+            "Spatial_Position": [
+                1028.00,
+				19.25,
+				1383.00
+            ]
+        },
+		{
+            "Spatial_Name": "Middle Island",
+            "Spatial_Safe": 0,
+            "Spatial_Radius": 100.0,
+            "Spatial_ZoneLoadout": [
+                "Banditloadout.json"
+            ],
+            "Spatial_MinCount": 1,
+            "Spatial_MaxCount": 3,
+            "Spatial_HuntMode": 1,
+            "Spatial_Faction": "Shaman",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 1.0,
+            "Spatial_MinAccuracy": 0.75,
+            "Spatial_MaxAccuracy": 0.949999988079071,
+            "Spatial_UnlimitedReload": 0,
+            "Spatial_Position": [
+                1130.00,
+				19.25,
+				953.00
+            ]
+        },
+        {
+            "Spatial_Name": "Raiders",
+            "Spatial_Safe": 0,
+            "Spatial_Radius": 100.0,
+            "Spatial_ZoneLoadout": [
+                "Banditloadout.json"
+            ],
+            "Spatial_MinCount": 1,
+            "Spatial_MaxCount": 2,
+            "Spatial_HuntMode": 1,
+            "Spatial_Faction": "Raiders",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 1.0,
+            "Spatial_MinAccuracy": 0.25,
+            "Spatial_MaxAccuracy": 0.6499999761581421,
+            "Spatial_UnlimitedReload": 0,
+            "Spatial_Position": [
+                999.3569946289063,
+                18.15839958190918,
+                691.9390258789063
+            ]
+        }
+    ],
+    "Location": [],
+    "Audio": []
+}

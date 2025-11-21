@@ -1,0 +1,2409 @@
+{
+	"ClassName": "",
+	"Chance": 1,
+	"Quantity": {
+	  "Min": 0,
+	  "Max": 0
+	},
+	"Health": [],
+	"InventoryAttachments": [
+	  {
+		"SlotName": "Back",
+		"Items": [
+		  {
+			"ClassName": "FOG_GhillieSuit_Leaf",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 0,
+			  "Max": 0
+			},
+			"Health": [
+			  {
+				"Min": 0.699999988079071,
+				"Max": 1,
+				"Zone": ""
+			  }
+			],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  }
+		]
+	  },
+	  {
+		"SlotName": "Vest",
+		"Items": [
+		  {
+			"ClassName": "FOG_Vest_Osprey_Black",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 0,
+			  "Max": 0
+			},
+			"Health": [
+			  {
+				"Min": 0.699999988079071,
+				"Max": 1,
+				"Zone": ""
+			  }
+			],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  },
+		  {
+			"ClassName": "FOG_Vest_Osprey_CB",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 0,
+			  "Max": 0
+			},
+			"Health": [
+			  {
+				"Min": 0.699999988079071,
+				"Max": 1,
+				"Zone": ""
+			  }
+			],
+			"InventoryAttachments": [],
+			"InventoryCargo": [
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 0.3400000035762787,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 0.30000001192092896,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 0.20000000298023224,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  },
+		  {
+			"ClassName": "FOG_Vest_Osprey_Black",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 0,
+			  "Max": 0
+			},
+			"Health": [
+			  {
+				"Min": 0.699999988079071,
+				"Max": 1,
+				"Zone": ""
+			  }
+			],
+			"InventoryAttachments": [],
+			"InventoryCargo": [
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 0.3400000035762787,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 0.30000001192092896,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 0.20000000298023224,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  },
+		  {
+			"ClassName": "FOG_Vest_Osprey_MC",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 0,
+			  "Max": 0
+			},
+			"Health": [
+			  {
+				"Min": 0.699999988079071,
+				"Max": 1,
+				"Zone": ""
+			  }
+			],
+			"InventoryAttachments": [],
+			"InventoryCargo": [
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 0.3400000035762787,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 0.30000001192092896,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 0.20000000298023224,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  },
+		  {
+			"ClassName": "FOG_Vest_Osprey_MC_Black",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 0,
+			  "Max": 0
+			},
+			"Health": [
+			  {
+				"Min": 0.699999988079071,
+				"Max": 1,
+				"Zone": ""
+			  }
+			],
+			"InventoryAttachments": [],
+			"InventoryCargo": [
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 0.3400000035762787,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 0.30000001192092896,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 0.20000000298023224,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  },
+		  {
+			"ClassName": "FOG_Vest_Osprey_MCT",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 0,
+			  "Max": 0
+			},
+			"Health": [
+			  {
+				"Min": 0.699999988079071,
+				"Max": 1,
+				"Zone": ""
+			  }
+			],
+			"InventoryAttachments": [],
+			"InventoryCargo": [
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 0.3400000035762787,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 0.30000001192092896,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 0.20000000298023224,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  },
+		  {
+			"ClassName": "FOG_Vest_Osprey_MCB",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 0,
+			  "Max": 0
+			},
+			"Health": [
+			  {
+				"Min": 0.699999988079071,
+				"Max": 1,
+				"Zone": ""
+			  }
+			],
+			"InventoryAttachments": [],
+			"InventoryCargo": [
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 0.3400000035762787,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 0.30000001192092896,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 0.20000000298023224,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltExplosive",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  },
+		  {
+			"ClassName": "FOG_Vest_Osprey_MCAL",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 0,
+			  "Max": 0
+			},
+			"Health": [
+			  {
+				"Min": 0.699999988079071,
+				"Max": 1,
+				"Zone": ""
+			  }
+			],
+			"InventoryAttachments": [],
+			"InventoryCargo": [
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 0.3400000035762787,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 0.30000001192092896,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 0.20000000298023224,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  },
+		  {
+			"ClassName": "FOG_Vest_Osprey_MB1",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 0,
+			  "Max": 0
+			},
+			"Health": [
+			  {
+				"Min": 0.699999988079071,
+				"Max": 1,
+				"Zone": ""
+			  }
+			],
+			"InventoryAttachments": [],
+			"InventoryCargo": [
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 0.3400000035762787,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 0.30000001192092896,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 0.20000000298023224,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_HuntingBoltChem",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  },
+			  {
+				"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 50,
+				  "Max": 100
+				},
+				"Health": [],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  }
+		]
+	  },
+	  {
+		"SlotName": "Mask",
+		"Items": [
+		  {
+			"ClassName": "D28_MASK_GAS_DOG",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 1,
+			  "Max": 2
+			},
+			"Health": [
+			  {
+				"Min": 1,
+				"Max": 1,
+				"Zone": ""
+			  }
+			],
+			"InventoryAttachments": [
+			  {
+				"SlotName": "",
+				"Items": [
+				  {
+					"ClassName": "D28_MASK_GAS_DOG_FILTER",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 10,
+					  "Max": 10
+					},
+					"Health": [
+					  {
+						"Min": 1,
+						"Max": 1,
+						"Zone": ""
+					  }
+					],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  }
+				]
+			  }
+			],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  }
+		]
+	  },
+	  {
+		"SlotName": "Hips",
+		"Items": [
+		  {
+			"ClassName": "MilitaryBelt",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 0,
+			  "Max": 0
+			},
+			"Health": [
+			  {
+				"Min": 0.699999988079071,
+				"Max": 1,
+				"Zone": ""
+			  }
+			],
+			"InventoryAttachments": [],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  }
+		]
+	  },
+	  {
+		"SlotName": "Hands",
+		"Items": [
+		  {
+			"ClassName": "Crossbow_Black",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 0,
+			  "Max": 0
+			},
+			"Health": [],
+			"InventoryAttachments": [
+			  {
+				"SlotName": "",
+				"Items": [
+				  {
+					"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 20,
+					  "Max": 20
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 20,
+					  "Max": 20
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 20,
+					  "Max": 20
+					},
+					"Health": [],
+					"InventoryAttachments": [
+					  {
+						"SlotName": "",
+						"Items": [
+						  {
+							"ClassName": "",
+							"Chance": 1,
+							"Quantity": {
+							  "Min": 0,
+							  "Max": 0
+							},
+							"Health": [],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						  }
+						]
+					  }
+					],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  }
+				]
+			  }
+			],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  },
+		  {
+			"ClassName": "Crossbow_Autumn",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 0,
+			  "Max": 0
+			},
+			"Health": [],
+			"InventoryAttachments": [
+			  {
+				"SlotName": "",
+				"Items": [
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 0.8999999761581421,
+					"Quantity": {
+					  "Min": 20,
+					  "Max": 20
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 20,
+					  "Max": 20
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+					"Chance": 0.30000001192092896,
+					"Quantity": {
+					  "Min": 20,
+					  "Max": 20
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 0.30000001192092896,
+					"Quantity": {
+					  "Min": 20,
+					  "Max": 20
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 20,
+					  "Max": 20
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 20,
+					  "Max": 20
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 20,
+					  "Max": 20
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 20,
+					  "Max": 20
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 20,
+					  "Max": 20
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 0.20000000298023224,
+					"Quantity": {
+					  "Min": 20,
+					  "Max": 20
+					},
+					"Health": [],
+					"InventoryAttachments": [
+					  {
+						"SlotName": "",
+						"Items": [
+						  {
+							"ClassName": "",
+							"Chance": 1,
+							"Quantity": {
+							  "Min": 0,
+							  "Max": 0
+							},
+							"Health": [],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						  }
+						]
+					  }
+					],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "",
+					"Chance": 0.20000000298023224,
+					"Quantity": {
+					  "Min": 0,
+					  "Max": 0
+					},
+					"Health": [],
+					"InventoryAttachments": [
+					  {
+						"SlotName": "",
+						"Items": [
+						  {
+							"ClassName": "",
+							"Chance": 1,
+							"Quantity": {
+							  "Min": 0,
+							  "Max": 0
+							},
+							"Health": [],
+							"InventoryAttachments": [],
+							"InventoryCargo": [],
+							"ConstructionPartsBuilt": [],
+							"Sets": []
+						  }
+						]
+					  }
+					],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  }
+				]
+			  }
+			],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  },
+		  {
+			"ClassName": "Crossbow_Black",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 0,
+			  "Max": 0
+			},
+			"Health": [],
+			"InventoryAttachments": [
+			  {
+				"SlotName": "",
+				"Items": [
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 20,
+					  "Max": 20
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  }
+				]
+			  }
+			],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  },
+		  {
+			"ClassName": "Crossbow_Summer",
+			"Chance": 1,
+			"Quantity": {
+			  "Min": 0,
+			  "Max": 0
+			},
+			"Health": [],
+			"InventoryAttachments": [
+			  {
+				"SlotName": "",
+				"Items": [
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 20,
+					  "Max": 20
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  }
+				]
+			  }
+			],
+			"InventoryCargo": [],
+			"ConstructionPartsBuilt": [],
+			"Sets": []
+		  }
+		]
+	  }
+	],
+	"InventoryCargo": [
+	  {
+		"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+		"Chance": 1,
+		"Quantity": {
+		  "Min": 0,
+		  "Max": 0
+		},
+		"Health": [],
+		"InventoryAttachments": [],
+		"InventoryCargo": [],
+		"ConstructionPartsBuilt": [],
+		"Sets": []
+	  },
+	  {
+		"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+		"Chance": 0.15000000596046448,
+		"Quantity": {
+		  "Min": 0,
+		  "Max": 0
+		},
+		"Health": [],
+		"InventoryAttachments": [],
+		"InventoryCargo": [],
+		"ConstructionPartsBuilt": [],
+		"Sets": []
+	  },
+	  {
+		"ClassName": "Ammo_HuntingBoltChem",
+		"Chance": 0.15000000596046448,
+		"Quantity": {
+		  "Min": 0,
+		  "Max": 0
+		},
+		"Health": [],
+		"InventoryAttachments": [],
+		"InventoryCargo": [],
+		"ConstructionPartsBuilt": [],
+		"Sets": []
+	  },
+	  {
+		"ClassName": "D28_MASK_GAS_DOG",
+		"Chance": 0.15000000596046448,
+		"Quantity": {
+		  "Min": 0,
+		  "Max": 0
+		},
+		"Health": [],
+		"InventoryAttachments": [],
+		"InventoryCargo": [],
+		"ConstructionPartsBuilt": [],
+		"Sets": []
+	  },
+	  {
+		"ClassName": "AntiChemInjector",
+		"Chance": 0.05000000074505806,
+		"Quantity": {
+		  "Min": 0,
+		  "Max": 0
+		},
+		"Health": [],
+		"InventoryAttachments": [],
+		"InventoryCargo": [],
+		"ConstructionPartsBuilt": [],
+		"Sets": []
+	  }
+	],
+	"ConstructionPartsBuilt": [],
+	"Sets": [
+	  {
+		"ClassName": "",
+		"Chance": 1,
+		"Quantity": {
+		  "Min": 0,
+		  "Max": 0
+		},
+		"Health": [],
+		"InventoryAttachments": [
+		  {
+			"SlotName": "Body",
+			"Items": [
+			  {
+				"ClassName": "FOG_Cronen_Shirt_Black",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [
+				  {
+					"Min": 1,
+					"Max": 1,
+					"Zone": ""
+				  }
+				],
+				"InventoryAttachments": [],
+				"InventoryCargo": [
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 0.3400000035762787,
+					"Quantity": {
+					  "Min": 0,
+					  "Max": 0
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 0.30000001192092896,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+					"Chance": 0.20000000298023224,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltExplosive",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  }
+				],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			]
+		  },
+		  {
+			"SlotName": "Legs",
+			"Items": [
+			  {
+				"ClassName": "FOG_FieldPants_Black",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [
+				  {
+					"Min": 1,
+					"Max": 1,
+					"Zone": ""
+				  }
+				],
+				"InventoryCargo": [
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 0.3400000035762787,
+					"Quantity": {
+					  "Min": 0,
+					  "Max": 0
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 0.30000001192092896,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 0.20000000298023224,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltExplosive",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltExplosive",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 50,
+					  "Max": 100
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  }
+				],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			]
+		  },
+		  {
+			"SlotName": "Feet",
+			"Items": [
+			  {
+				"ClassName": "FOG_Zypher_Boots_Black_Socks",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [
+				  {
+					"Min": 1,
+					"Max": 1,
+					"Zone": ""
+				  }
+				],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			]
+		  },
+		  {
+			"SlotName": "Headgear",
+			"Items": [
+			  {
+				"ClassName": "FOG_GhillieHood_Green",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [
+				  {
+					"Min": 1,
+					"Max": 1,
+					"Zone": ""
+				  }
+				],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			]
+		  },
+		  {
+			"SlotName": "Gloves",
+			"Items": [
+			  {
+				"ClassName": "FOG_Tactical_Fingerless_Gloves_Black",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [
+				  {
+					"Min": 1,
+					"Max": 1,
+					"Zone": ""
+				  }
+				],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			]
+		  }
+		],
+		"InventoryCargo": [],
+		"ConstructionPartsBuilt": [],
+		"Sets": []
+	  },
+	  {
+		"ClassName": "",
+		"Chance": 1,
+		"Quantity": {
+		  "Min": 0,
+		  "Max": 0
+		},
+		"Health": [],
+		"InventoryAttachments": [
+		  {
+			"SlotName": "Body",
+			"Items": [
+			  {
+				"ClassName": "FOG_Cronen_Shirt_Black",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [
+				  {
+					"Min": 1,
+					"Max": 1,
+					"Zone": ""
+				  }
+				],
+				"InventoryAttachments": [],
+				"InventoryCargo": [
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 0,
+					  "Max": 0
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 0.15000000596046448,
+					"Quantity": {
+					  "Min": 0,
+					  "Max": 0
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_ImprovisedBolt_2_Toxic",
+					"Chance": 0.15000000596046448,
+					"Quantity": {
+					  "Min": 70,
+					  "Max": 70
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "D28_MASK_GAS_DOG",
+					"Chance": 0.15000000596046448,
+					"Quantity": {
+					  "Min": 0,
+					  "Max": 0
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "AntiChemInjector",
+					"Chance": 0.05000000074505806,
+					"Quantity": {
+					  "Min": 10,
+					  "Max": 10
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  }
+				],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			]
+		  },
+		  {
+			"SlotName": "Legs",
+			"Items": [
+			  {
+				"ClassName": "FOG_FieldPants_Black",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [
+				  {
+					"Min": 1,
+					"Max": 1,
+					"Zone": ""
+				  }
+				],
+				"InventoryAttachments": [],
+				"InventoryCargo": [
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 1,
+					"Quantity": {
+					  "Min": 0,
+					  "Max": 0
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 0.15000000596046448,
+					"Quantity": {
+					  "Min": 0,
+					  "Max": 0
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "Ammo_HuntingBoltChem",
+					"Chance": 0.15000000596046448,
+					"Quantity": {
+					  "Min": 0,
+					  "Max": 0
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "D28_MASK_GAS_DOG",
+					"Chance": 0.15000000596046448,
+					"Quantity": {
+					  "Min": 0,
+					  "Max": 0
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  },
+				  {
+					"ClassName": "AntiChemInjector",
+					"Chance": 0.05000000074505806,
+					"Quantity": {
+					  "Min": 0,
+					  "Max": 0
+					},
+					"Health": [],
+					"InventoryAttachments": [],
+					"InventoryCargo": [],
+					"ConstructionPartsBuilt": [],
+					"Sets": []
+				  }
+				],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			]
+		  },
+		  {
+			"SlotName": "Feet",
+			"Items": [
+			  {
+				"ClassName": "FOG_Zypher_Boots_Black_Socks",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [
+				  {
+					"Min": 1,
+					"Max": 1,
+					"Zone": ""
+				  }
+				],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			]
+		  },
+		  {
+			"SlotName": "Headgear",
+			"Items": [
+			  {
+				"ClassName": "FOG_GhillieHood_Leaf",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [
+				  {
+					"Min": 1,
+					"Max": 1,
+					"Zone": ""
+				  }
+				],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			]
+		  },
+		  {
+			"SlotName": "Gloves",
+			"Items": [
+			  {
+				"ClassName": "FOG_Tactical_Fingerless_Gloves_Black",
+				"Chance": 1,
+				"Quantity": {
+				  "Min": 0,
+				  "Max": 0
+				},
+				"Health": [
+				  {
+					"Min": 1,
+					"Max": 1,
+					"Zone": ""
+				  }
+				],
+				"InventoryAttachments": [],
+				"InventoryCargo": [],
+				"ConstructionPartsBuilt": [],
+				"Sets": []
+			  }
+			]
+		  }
+		],
+		"InventoryCargo": [],
+		"ConstructionPartsBuilt": [],
+		"Sets": []
+	  }
+	]
+}
